@@ -1,1 +1,1 @@
-# error
+# pagina estatica
