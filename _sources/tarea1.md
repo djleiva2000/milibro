@@ -8,3 +8,9 @@ más popular para la trasmisión de datos a través de internet.
 :::{note}
 Es importante saber su significado
 :::
+
+And here is a code block:
+
+```
+e = mc^2
+```
