@@ -1,4 +1,6 @@
-# Plataformas web
+# MiLibro1
+
+## Plataformas web
 
 Qué es la Web:
 Web es una palabra inglesa que significa red o telaraña. 
@@ -12,5 +14,5 @@ Es importante saber su significado
 And here is a code block:
 
 ```
-e = mc^2
+
 ```
